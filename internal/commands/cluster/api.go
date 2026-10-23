@@ -6,7 +6,7 @@ import (
 
 	awssdk "github.com/aws/aws-sdk-go-v2/aws"
 	awsconfig "github.com/aws/aws-sdk-go-v2/config"
-	pkgconfig "github.com/openshift-online/rosa-regional-platform-cli/internal/config"
+	pkgconfig "github.com/openshift-online/rosa-seaplane-cli/internal/config"
 	v1alpha1 "github.com/openshift-online/rosa-seaplane-api/api/v1alpha1/public"
 	seaplane "github.com/openshift-online/rosa-seaplane-api/clientset"
 	"github.com/openshift-online/rosa-seaplane-api/clientset/platform"
